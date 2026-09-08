@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 4169728,
       "digest": "sha256:60a594b6f26a7fbb38ed28042cfdd14fb4b24cfce725b4ff43b039f5483a74ec",
-      "download_count": 565,
+      "download_count": 566,
       "created_at": "2026-05-26T15:38:18Z",
       "updated_at": "2026-05-26T15:38:18Z",
       "browser_download_url": "https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-x86_64-pc-windows-msvc.msi"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 3073176,
       "digest": "sha256:bd03ae75c333211d1b6f9085834010b7d3ffed60a13915291a76b667c62f2e85",
-      "download_count": 249,
+      "download_count": 250,
       "created_at": "2026-05-26T15:38:19Z",
       "updated_at": "2026-05-26T15:38:20Z",
       "browser_download_url": "https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-x86_64-unknown-linux-musl.tar.xz"
