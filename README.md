@@ -7,7 +7,7 @@ Expose the contents of .docx files without leaving your terminal. Fast, safe, an
 - **Latest release**: `v0.1.4` (2026-05-26)
 - **Last commit**: 2026-08-09
 - **License**: MIT
-- **Stars**: 3748 · **Forks**: 92 · **Open issues**: 42 · **Contributors**: 13
+- **Stars**: 3749 · **Forks**: 92 · **Open issues**: 42 · **Contributors**: 13
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/doxx> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:07:08Z._
+_Last regenerated: 2026-09-09T20:11:09Z._
