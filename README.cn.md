@@ -1,52 +1,52 @@
 # doxx
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
 
-![doxx](https://repo.x-cmd.io/doxx.svg)
+![doxx](https://repo.x-cmd.io/doxx.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install doxx
 ```
 
-## Code insight
+## 代码规模
 
-Total: **8,910** lines of code across **57** files in the top 5 languages.
+合计: **8,910** 行代码（覆盖前 5 种语言、共 **57** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Rust | 8,600 | 588 | 1,199 | 39 |
 | Sh | 114 | 25 | 30 | 4 |
 | Nix | 107 | 16 | 20 | 1 |
 | Toml | 89 | 18 | 15 | 3 |
 | Markdown | 0 | 705 | 284 | 10 |
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/bgreenwell/doxx>
-- **Homepage**: <https://bgreenwell.github.io/doxx/>
-- **License**: MIT
+- **上游仓库**: <https://github.com/bgreenwell/doxx>
+- **官网**: <https://bgreenwell.github.io/doxx/>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `v0.1.4` (2026-05-26)
-- **Last commit**: 2026-08-09
-- **Assets in release**: 27
+- **最新版本**: `v0.1.4` (2026-05-26)
+- **最近提交**: 2026-08-09
+- **Release 含资产**: 27 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 3,750 · **Forks**: 92 · **Open issues**: 42 · **Contributors**: 13
+- **Star**: 3,750 · **Fork**: 92 · **开放 issue**: 42 · **贡献者**: 13
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 3 · **Merged PRs**: 33 · **Open PRs**: 5 · **Closed issues**: 39 · **Open issues**: 3 · **Commits**: 226
+- **发布数**: 3 · **已合并 PR**: 33 · **开放 PR**: 5 · **已关闭 issue**: 39 · **开放 issue**: 3 · **提交数**: 226
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
 | last60d | 2026-07-12 | 0 | 7 | 5 | 0 | 0 | 6 |
@@ -55,10 +55,10 @@ Total: **8,910** lines of code across **57** files in the top 5 languages.
 | 360d | 2025-09-15 | 2 | 25 | 5 | 14 | 1 | 125 |
 | last720d | 2024-09-20 | 3 | 33 | 5 | 39 | 3 | 226 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [dist-manifest.json](https://github.com/bgreenwell/doxx/releases/download/v0.1.4/dist-manifest.json) | 33.3 KiB | `other` |
 | [doxx-aarch64-apple-darwin-update](https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-aarch64-apple-darwin-update) | 5.8 MiB | `native/darwin/arm64` |
 | [doxx-aarch64-apple-darwin.tar.xz](https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-aarch64-apple-darwin.tar.xz) | 2.3 MiB | `native/darwin/arm64` |
@@ -87,24 +87,24 @@ Total: **8,910** lines of code across **57** files in the top 5 languages.
 | [source.tar.gz](https://github.com/bgreenwell/doxx/releases/download/v0.1.4/source.tar.gz) | 4.3 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/bgreenwell/doxx/releases/download/v0.1.4/source.tar.gz.sha256) | 81 B | `other` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **18** distros on [repology.org](https://repology.org/project/doxx). **11** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/doxx) 上共有 **18** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Arch | `0.1.4` | ✅ latest |
 | Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.1.4` | ✅ latest |
 | openSUSE Tumbleweed | `0.1.4` | ✅ latest |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for doxx lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `doxx` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+doxx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `doxx` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/doxx.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/doxx.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:16:20Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:16:20Z._
