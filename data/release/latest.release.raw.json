@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2649748,
       "digest": "sha256:e401be69d0d6bd428d0b850317ed524656472849f50034d4b26f6725e43b8030",
-      "download_count": 98,
+      "download_count": 100,
       "created_at": "2026-05-26T15:38:17Z",
       "updated_at": "2026-05-26T15:38:17Z",
       "browser_download_url": "https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-aarch64-unknown-linux-gnu.tar.xz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2751660,
       "digest": "sha256:438f4be310d0aa06faa38d55fc540cdf1833450b06e223e2ccecf3e174581704",
-      "download_count": 101,
+      "download_count": 102,
       "created_at": "2026-05-26T15:38:18Z",
       "updated_at": "2026-05-26T15:38:18Z",
       "browser_download_url": "https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-x86_64-apple-darwin.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 4169728,
       "digest": "sha256:60a594b6f26a7fbb38ed28042cfdd14fb4b24cfce725b4ff43b039f5483a74ec",
-      "download_count": 582,
+      "download_count": 586,
       "created_at": "2026-05-26T15:38:18Z",
       "updated_at": "2026-05-26T15:38:18Z",
       "browser_download_url": "https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-x86_64-pc-windows-msvc.msi"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 2940480,
       "digest": "sha256:ebac222bfe04ac3a776277c0fc9dd40f8564070bf020330f593ee77ac2b426e0",
-      "download_count": 345,
+      "download_count": 346,
       "created_at": "2026-05-26T15:38:19Z",
       "updated_at": "2026-05-26T15:38:19Z",
       "browser_download_url": "https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-x86_64-unknown-linux-gnu.tar.xz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 3073176,
       "digest": "sha256:bd03ae75c333211d1b6f9085834010b7d3ffed60a13915291a76b667c62f2e85",
-      "download_count": 255,
+      "download_count": 256,
       "created_at": "2026-05-26T15:38:19Z",
       "updated_at": "2026-05-26T15:38:20Z",
       "browser_download_url": "https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-x86_64-unknown-linux-musl.tar.xz"
