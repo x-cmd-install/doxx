@@ -38,7 +38,7 @@ Total: **8,910** lines of code across **57** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,751 · **Forks**: 92 · **Open issues**: 42 · **Contributors**: 13
+- **Stars**: 3,752 · **Forks**: 92 · **Open issues**: 42 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **8,910** lines of code across **57** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 5 | 0 | 0 | 1 |
-| 90d | 2026-06-15 | 0 | 12 | 5 | 4 | 0 | 28 |
-| last180d | 2026-03-17 | 1 | 12 | 5 | 5 | 0 | 52 |
-| 360d | 2025-09-18 | 2 | 25 | 5 | 14 | 1 | 120 |
-| last720d | 2024-09-23 | 3 | 33 | 5 | 39 | 3 | 226 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 5 | 0 | 0 | 1 |
+| 90d | 2026-06-16 | 0 | 12 | 5 | 4 | 0 | 28 |
+| last180d | 2026-03-18 | 1 | 12 | 5 | 5 | 0 | 52 |
+| 360d | 2025-09-19 | 2 | 25 | 5 | 14 | 1 | 120 |
+| last720d | 2024-09-24 | 3 | 33 | 5 | 39 | 3 | 226 |
 
 ## Release assets
 
@@ -87,17 +87,6 @@ Total: **8,910** lines of code across **57** files in the top 5 languages.
 | [source.tar.gz](https://github.com/bgreenwell/doxx/releases/download/v0.1.4/source.tar.gz) | 4.3 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/bgreenwell/doxx/releases/download/v0.1.4/source.tar.gz.sha256) | 81 B | `other` |
 
-## Distribution status
-
-Reported by **18** distros on [repology.org](https://repology.org/project/doxx). **11** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.1.4` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `0.1.4` | ✅ latest |
-| openSUSE Tumbleweed | `0.1.4` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for doxx lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `doxx` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -107,4 +96,4 @@ Install metadata for doxx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:11:29Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:28:04Z._
