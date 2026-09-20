@@ -4,7 +4,7 @@
 
 Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
 
-![doxx](https://repo.x-cmd.io/doxx.svg)
+[![x-cmd/install — doxx Code Quality Monitoring Repo Card](https://repo.x-cmd.io/doxx.svg)](https://x-cmd.com/install/doxx)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **8,910** lines of code across **57** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,755 · **Forks**: 93 · **Open issues**: 42 · **Contributors**: 13
+- **Stars**: 3,758 · **Forks**: 93 · **Open issues**: 42 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **8,910** lines of code across **57** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-06-20 | 0 | 12 | 5 | 3 | 0 | 28 |
-| last180d | 2026-03-22 | 1 | 12 | 5 | 5 | 0 | 52 |
-| 360d | 2025-09-23 | 2 | 23 | 5 | 14 | 1 | 120 |
-| last720d | 2024-09-28 | 3 | 33 | 5 | 39 | 3 | 226 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-06-22 | 0 | 12 | 5 | 3 | 0 | 28 |
+| last180d | 2026-03-24 | 1 | 12 | 5 | 5 | 0 | 52 |
+| 360d | 2025-09-25 | 2 | 23 | 5 | 14 | 1 | 118 |
+| last720d | 2024-09-30 | 3 | 33 | 5 | 39 | 3 | 226 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for doxx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:11:55Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:19:46Z._
