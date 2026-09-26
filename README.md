@@ -48,12 +48,12 @@ Total: **8,910** lines of code across **57** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-27 | 0 | 0 | 0 | 0 | 1 | 1 |
-| 90d | 2026-06-27 | 0 | 12 | 5 | 3 | 1 | 28 |
-| last180d | 2026-03-29 | 1 | 12 | 5 | 5 | 1 | 52 |
-| 360d | 2025-09-30 | 2 | 23 | 5 | 14 | 2 | 118 |
-| last720d | 2024-10-05 | 3 | 33 | 5 | 39 | 4 | 226 |
+| 30d | 2026-08-27 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-28 | 0 | 0 | 0 | 0 | 1 | 1 |
+| 90d | 2026-06-28 | 0 | 12 | 5 | 3 | 1 | 28 |
+| last180d | 2026-03-30 | 1 | 12 | 5 | 5 | 1 | 52 |
+| 360d | 2025-10-01 | 2 | 23 | 5 | 13 | 2 | 118 |
+| last720d | 2024-10-06 | 3 | 33 | 5 | 39 | 4 | 226 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for doxx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T06:03:37Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T06:02:53Z._
