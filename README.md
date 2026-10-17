@@ -38,22 +38,22 @@ Total: **8,910** lines of code across **57** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,773 · **Forks**: 97 · **Open issues**: 44 · **Contributors**: 13
+- **Stars**: 3,774 · **Forks**: 98 · **Open issues**: 44 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 33 · **Open PRs**: 6 · **Closed issues**: 39 · **Open issues**: 5 · **Commits**: 226
+- **Releases**: 3 · **Merged PRs**: 33 · **Open PRs**: 7 · **Closed issues**: 39 · **Open issues**: 5 · **Commits**: 226
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 1 | 0 | 2 | 0 |
-| last60d | 2026-08-17 | 0 | 0 | 1 | 0 | 2 | 0 |
-| 90d | 2026-07-18 | 0 | 0 | 6 | 0 | 2 | 1 |
-| last180d | 2026-04-19 | 1 | 12 | 6 | 4 | 2 | 52 |
-| 360d | 2025-10-21 | 2 | 20 | 6 | 9 | 3 | 98 |
-| last720d | 2024-10-26 | 3 | 33 | 6 | 39 | 5 | 226 |
+| 30d | 2026-09-17 | 0 | 0 | 2 | 0 | 2 | 0 |
+| last60d | 2026-08-18 | 0 | 0 | 2 | 0 | 2 | 0 |
+| 90d | 2026-07-19 | 0 | 0 | 7 | 0 | 2 | 1 |
+| last180d | 2026-04-20 | 1 | 12 | 7 | 4 | 2 | 52 |
+| 360d | 2025-10-22 | 1 | 20 | 7 | 9 | 3 | 98 |
+| last720d | 2024-10-27 | 3 | 33 | 7 | 39 | 5 | 226 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for doxx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:34:50Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:19:13Z._
