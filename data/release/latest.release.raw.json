@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6077328,
       "digest": "sha256:05995085f64d8402f5e863eba8d4f7aa710a375d7fec25bd5e2fd9c38a90772a",
-      "download_count": 85,
+      "download_count": 86,
       "created_at": "2026-05-26T15:38:16Z",
       "updated_at": "2026-05-26T15:38:17Z",
       "browser_download_url": "https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-aarch64-apple-darwin-update"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:7dec47c29da44719048b8443990eed8a9152a7c1f278f1b815e7deec9ad06f94",
-      "download_count": 79,
+      "download_count": 80,
       "created_at": "2026-05-26T15:38:17Z",
       "updated_at": "2026-05-26T15:38:17Z",
       "browser_download_url": "https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-aarch64-unknown-linux-gnu.tar.xz.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2751660,
       "digest": "sha256:438f4be310d0aa06faa38d55fc540cdf1833450b06e223e2ccecf3e174581704",
-      "download_count": 147,
+      "download_count": 148,
       "created_at": "2026-05-26T15:38:18Z",
       "updated_at": "2026-05-26T15:38:18Z",
       "browser_download_url": "https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-x86_64-apple-darwin.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 4169728,
       "digest": "sha256:60a594b6f26a7fbb38ed28042cfdd14fb4b24cfce725b4ff43b039f5483a74ec",
-      "download_count": 1177,
+      "download_count": 1182,
       "created_at": "2026-05-26T15:38:18Z",
       "updated_at": "2026-05-26T15:38:18Z",
       "browser_download_url": "https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-x86_64-pc-windows-msvc.msi"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 6912576,
       "digest": "sha256:0a1fae2d4323f45068fcc5d731baf8a544c4cd59de52e6d17479afc97a59d5c4",
-      "download_count": 121,
+      "download_count": 122,
       "created_at": "2026-05-26T15:38:19Z",
       "updated_at": "2026-05-26T15:38:19Z",
       "browser_download_url": "https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-x86_64-unknown-linux-gnu-update"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 2940480,
       "digest": "sha256:ebac222bfe04ac3a776277c0fc9dd40f8564070bf020330f593ee77ac2b426e0",
-      "download_count": 898,
+      "download_count": 901,
       "created_at": "2026-05-26T15:38:19Z",
       "updated_at": "2026-05-26T15:38:19Z",
       "browser_download_url": "https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-x86_64-unknown-linux-gnu.tar.xz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 3073176,
       "digest": "sha256:bd03ae75c333211d1b6f9085834010b7d3ffed60a13915291a76b667c62f2e85",
-      "download_count": 435,
+      "download_count": 437,
       "created_at": "2026-05-26T15:38:19Z",
       "updated_at": "2026-05-26T15:38:20Z",
       "browser_download_url": "https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-x86_64-unknown-linux-musl.tar.xz"
